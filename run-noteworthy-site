@@ -1,4 +1,4 @@
 #!/bin/bash
 
 cd /home/darshan/noteworthytuner.com
-/usr/bin/go run noteworthy.go
+./noteworthy
