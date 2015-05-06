@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd /home/darshan/batterybot.info
+/usr/bin/go run main.go
