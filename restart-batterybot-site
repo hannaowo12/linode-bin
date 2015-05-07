@@ -1,0 +1,5 @@
+#!/bin/bash
+
+/home/darshan/bin/stop-batterybot-site
+cd /home/darshan/batterybot.info
+./batterybot

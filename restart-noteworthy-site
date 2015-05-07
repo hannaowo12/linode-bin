@@ -1,4 +1,5 @@
 #!/bin/bash
 
+/home/darshan/bin/stop-noteworthy-site
 cd /home/darshan/noteworthytuner.com
 ./noteworthy

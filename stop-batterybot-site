@@ -1,4 +1,5 @@
 #!/bin/bash
 
 cd /home/darshan/batterybot.info
-./batterybot
+kill `cat run/pid`
+rm run/*

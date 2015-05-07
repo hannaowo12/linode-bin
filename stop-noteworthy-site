@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /home/darshan/noteworthytuner.com
+kill `cat run/pid`
+rm run/*
