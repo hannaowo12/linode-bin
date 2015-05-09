@@ -1,0 +1,5 @@
+#!/bin/bash
+
+/home/darshan/bin/stop-sad-warm
+cd /home/darshan/swap-a-doodle/linode
+./keepwarm
